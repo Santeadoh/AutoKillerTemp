@@ -1,0 +1,2 @@
+# AutoKillerTemp
+Clear temp automatically
